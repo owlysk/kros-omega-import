@@ -2,6 +2,7 @@
 
 Jednoduchá knižnica pre vytvorenie importného súboru do OMEGY. Knižnica sa len stiahne bez nutnosti inštalácie.
 
+<a href="https://www.buymeacoffee.com/owlysk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ## Dokumentácia
 
 ### Hlavička faktúry
